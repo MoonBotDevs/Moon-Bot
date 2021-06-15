@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# moon bot
+moon.db
+data
+.dist
+
 # Distribution / packaging
 .Python
 build/
